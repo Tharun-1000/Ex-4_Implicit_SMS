@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98de3e41-96e7-4c49-97fb-04e28350877b)
+
 # Ex.No:4 Design an android application Send SMS using Intent.
 
 
